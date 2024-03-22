@@ -1,0 +1,37 @@
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 3D effect box shadow */
+}
+
+.navbar-container {
+  margin: 0 auto;
+  max-width: 1170px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: #398564;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px 35px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #398564;
+  border: 1px solid #398564;
+}

@@ -1,0 +1,33 @@
+.order-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.invoice {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.invoice-details {
+  flex: 1;
+}
+
+.payment-options {
+  flex: 1;
+}
+
+.payment-btn {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #398564;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.payment-btn:hover {
+  background-color: #2d6c4b;
+}
