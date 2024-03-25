@@ -6,7 +6,7 @@
   z-index: 1000;
   cursor: pointer;
   font-size: 24px;
-  color: whitesmoke;
+  color: #fce198;
   background-color: #398564;
   border: 1px solid #398564;
   border-radius: 50%;
@@ -20,5 +20,5 @@
 
 .scroll-to-top:hover {
   background-color: #2b6a4a;
-  color: whitesmoke;
+  color: #fce198;
 }

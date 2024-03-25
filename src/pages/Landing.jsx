@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-import Logo from '../components/Logo';
 import handSeedlingImage from '../images/hand_seedling.jpg';
 import './Landing.css';
 
